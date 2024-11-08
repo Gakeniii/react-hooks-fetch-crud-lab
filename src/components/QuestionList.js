@@ -4,8 +4,6 @@ import QuestionItem from "./QuestionItem";
 
 function QuestionList({ questions, onDeleteQuestion, updateQuestion }) {
 
-
-
   return (
     <section>
       <h1>Quiz Questions</h1>

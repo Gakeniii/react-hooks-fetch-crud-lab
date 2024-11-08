@@ -31,8 +31,6 @@ function QuestionItem({ question, onDeleteQuestion, onUpdateQuestion }) {
       .then((updatedQuestion) => onUpdateQuestion(updatedQuestion));
   }
 
-  
-
   return (
     <li>
       <h4>Question {id}</h4>

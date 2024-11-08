@@ -33,7 +33,6 @@ function App() {
     setQuestions(updatedQuestions);
   }
 
-
   return (
     <main>
       <AdminNavBar onChangePage={setPage} />
