@@ -15,5 +15,4 @@ function QuestionList({ questions, onDeleteQuestion, updateQuestion }) {
     </section>
   );
 }
-
 export default QuestionList;
